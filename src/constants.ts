@@ -1,1 +1,1 @@
-export const apiBaseUri = 'http://localhost:3002';
+export const apiBaseUri = 'https://vscode-extension.herokuapp.com';
