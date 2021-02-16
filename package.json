@@ -3,7 +3,7 @@
 	"displayName": "VSTodo",
 	"description": "my first ever vs code extension",
 	"publisher": "Jithin",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"engines": {
 		"vscode": "^1.53.0"
 	},
